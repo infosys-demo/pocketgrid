@@ -1,3 +1,12 @@
+### Demo of contribution of existing application.
+
+Steps to be followed:
+1. Fork the project @Infosys organization first. To be done by Administrators.
+1. Clone the forked project locally. By team.
+1. Commit and push changes to Infygit for review.
+1. Once approved, push changes to forked project at @Infosys.
+1. Open a pull request from @Infosys to parent project.
+
 # PocketGrid
 
 **Official PocketGrid website**: http://arnaudleray.github.io/pocketgrid/  
